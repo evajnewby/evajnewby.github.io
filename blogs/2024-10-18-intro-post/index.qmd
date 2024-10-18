@@ -1,0 +1,32 @@
+---
+title: "Blog post title"
+description: "a short catchy descriotion of the blogpost"
+author: 
+  - name: Eva Newby
+    url: https://evajnewby.github.io/
+    affiliation: MEDS
+    affiliation-url: https://bren.ucsb.edu/masters-programs/master-environmental-data-science
+date: 2024-10-18
+categories: [Quarto, MEDS]
+toc: true
+bibliography: references.bib
+#csl: plos-computational-biology.csl
+image: penguins-hug.png
+citation:
+  url: https://evajnewby.github.io/blogs/2024-10-18-intro-post/
+draft: true
+---
+
+## This is my first section
+
+I am going to insert a footnote here\[\^1\] \[\^1\]: here is a new footnote
+
+## This is my second section
+
+Here's my next paragraph[^1]
+
+[^1]: Here is my second footnote
+
+I'm citing Sam[@csik2021]
+
+Here is more random texts. I am going to cite a journal article now. [@gaynor2022]
