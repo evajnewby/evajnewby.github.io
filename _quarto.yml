@@ -4,7 +4,10 @@ project:
 
 website:
   title: "Eva Newby"
+  favicon: favicon-transparent.png
   navbar:
+    title: false
+    logo: favicon-transparent.png
     left:
       - href: index.qmd
         text: Home
@@ -12,11 +15,21 @@ website:
       - href: resources.qmd
         text: Resources
       - blogs.qmd   
+      #- href: file/path/to/myCV.pdf # providing a relative file path to a pdf will open up a browser-based pdf viewer when clicked
+        #text: CV
+        #target: _blank # opens link (or page) in a new browser tab
+      - icon: github # add icons as navbar buttons
+        href: https://github.com/evajnewby
+        target: _blank
+    page-footer:
+      background: light # or `dark`
+      left: Copyright 2021, Eva Newby
+      right: This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/evajnewby/evajnewby.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 
 format:
-  html:
+  html: 
     theme: 
-      light: minty
+      light: yeti #lumen
       dark: solar
     css: styles.css
     toc: true
