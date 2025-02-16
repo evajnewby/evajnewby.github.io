@@ -1,5 +1,5 @@
 ---
-#title: "Eva Newby"
+title: "Eva Newby"
 image: evacropped.jpeg
 about:
   template: jolla
