@@ -13,7 +13,7 @@ image: turtle-egg.jpg
 warning: false
 citation:
   url: https://evajnewby.github.io/blogs/2025-03-18-Loggerhead-Turtles/
-draft: true
+draft: false
 format:
   html:
     code-fold: true

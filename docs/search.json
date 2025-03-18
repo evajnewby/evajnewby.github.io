@@ -4,7 +4,7 @@
     "href": "blogs.html",
     "title": "Blog",
     "section": "",
-    "text": "2017 Thomas Fire Analysis\n\n\n\nMEDS\n\n\n\nDetailed code on how to create the fire bounday, overlay onto a false color image, and vizualize the AQI change\n\n\n\nEva Newby\n\n\nDec 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBeach Closure Days as a Function of Rainfall in Coastal San Diego County\n\n\n\nQuarto\n\n\nMEDS\n\n\n\nCode in R using a negative binomial regression model\n\n\n\nEva Newby\n\n\nDec 11, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Loggerhead Sea Turtle Nesting Trends\n\n\n\nQuarto\n\n\nMEDS\n\n\n\nfor the Caribbean and Gulf of Mexico Region from 1979 to 2023\n\n\n\nEva Newby\n\n\nMar 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2017 Thomas Fire Analysis\n\n\n\nMEDS\n\n\n\nDetailed code on how to create the fire bounday, overlay onto a false color image, and vizualize the AQI change\n\n\n\nEva Newby\n\n\nDec 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBeach Closure Days as a Function of Rainfall in Coastal San Diego County\n\n\n\nQuarto\n\n\nMEDS\n\n\n\nCode in R using a negative binomial regression model\n\n\n\nEva Newby\n\n\nDec 11, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blogs/2024-12-04-Thomas-Fire-Analysis/2017-Thomas-Fire-Analysis.html",
@@ -173,5 +173,89 @@
     "title": "All of my Favorite Resources",
     "section": "",
     "text": "stay tuned!"
+  },
+  {
+    "objectID": "blogs/2025-03-18-Loggerhead-Turtles/index.html",
+    "href": "blogs/2025-03-18-Loggerhead-Turtles/index.html",
+    "title": "Loggerhead Sea Turtle Nesting Trends",
+    "section": "",
+    "text": "Repository Link"
+  },
+  {
+    "objectID": "blogs/2025-03-18-Loggerhead-Turtles/index.html#why-loggerhead-sea-turtles",
+    "href": "blogs/2025-03-18-Loggerhead-Turtles/index.html#why-loggerhead-sea-turtles",
+    "title": "Loggerhead Sea Turtle Nesting Trends",
+    "section": "Why Loggerhead Sea Turtles?",
+    "text": "Why Loggerhead Sea Turtles?\nIt all started in 2002, on Hawaii’s Big Island. I was 5 years old and just gotten back from snorkeling with my parents. The best part? The sea turtles, swimming gracefully amongst the coral reefs! Right then and there, I decided that sea turtles were my favorite animal. The next year, “Finding Nemo” came out in theaters and you better believe my excitement was out of this world when Marlin and Dory met Crush and Squirt and continued on their adventure to Sydney. The seed was planted and my personal love of sea turtles only grew as I matured and chose a career in the natural and data sciences.\nYes, sea turtles are cool to look at, but they also serve as ecosystem indicators. Their well-being, nesting trends, and overall health often reflect the health of their ocean and beach habitats. According to the International Union for Conservation of Nature (IUCN) and the U.S. Endangered Species Act (ESA), 6 out of the 7 species of sea turtle are listed as threatened, endangered, or critically endangered. Of these 6 species, loggerhead sea turtles (Caretta caretta) are one of the more widespread in range, as they inhabit beaches throughout temperate regions worldwide and are a highly migratory species. Loggerheads are listed as “vulnerable” on the IUCN red list, with a decreasing population.\nOcean warming and it’s impacts are hot topics in today’s political climate. As is the case with many reptilian species, the gender of loggerhead clutches are largely determined by temperature, with warmer temperatures generally leading to more female-dominant clutches. Sex imbalance can be an issue for future genetic viability of a population. Assessing loggerhead nesting trends is one way to determine how loggerheads might be affected by ocean warming, and potentially open up more avenues for research into ocean ecosystem health. Variation in loggerhead nesting between beaches may also lend insight into how certain beaches are handling climate change."
+  },
+  {
+    "objectID": "blogs/2025-03-18-Loggerhead-Turtles/index.html#key-questions-where-are-loggerheads-nesting-around-the-world-is-loggerhead-nesting-changing-over-time-and-if-so-how",
+    "href": "blogs/2025-03-18-Loggerhead-Turtles/index.html#key-questions-where-are-loggerheads-nesting-around-the-world-is-loggerhead-nesting-changing-over-time-and-if-so-how",
+    "title": "Loggerhead Sea Turtle Nesting Trends",
+    "section": "Key Questions: Where are loggerheads nesting around the world? Is loggerhead nesting changing over time and if so, how?",
+    "text": "Key Questions: Where are loggerheads nesting around the world? Is loggerhead nesting changing over time and if so, how?\nThe data set used to address these questions is from “The effects of warming on loggerhead turtle nesting counts”, by Sousa-Guedes et al (2025) published on Dryad.\nThe data set contains 3 key variables:\n\nMann-Kendall: This number quantifies how much change in loggerhead turtle nesting (increase or decrease) a beach or region experienced. More on this in Question 3.\nrmu and country: Regional Management Unit, this number was used to assign countries to regions. I created a regions column from the data from the rmu and country column.\nGEOMETRY: Shapefile geometry for each beach/stretch of beach where nests were found."
+  },
+  {
+    "objectID": "blogs/2025-03-18-Loggerhead-Turtles/index.html#design-elements",
+    "href": "blogs/2025-03-18-Loggerhead-Turtles/index.html#design-elements",
+    "title": "Loggerhead Sea Turtle Nesting Trends",
+    "section": "Design elements:",
+    "text": "Design elements:\nFor all three visualizations, I chose the font “quicksilver” as it just felt beachy (and legible). The theme elements for all three visualizations were refined with their color palette. Blues and sandy colors were selected to match the ocean theme, which also provide context for the entire info graphic. Additionally, text elements were modified in the theme for visualizations 1 and 3 for improved legibility.\nThe progression of the visualizations are laid out so that the reader should follow intuitively. Question 1 is broad; Question 2 is a bit more narrow building off of Question 1, and Question 3 is very narrow, also building off of the first two."
+  },
+  {
+    "objectID": "blogs/2025-03-18-Loggerhead-Turtles/index.html#impact",
+    "href": "blogs/2025-03-18-Loggerhead-Turtles/index.html#impact",
+    "title": "Loggerhead Sea Turtle Nesting Trends",
+    "section": "Impact",
+    "text": "Impact\nMany local, indigenous, and tourist communities are heavily involved in the places represented in this info graphic. Tourism is a large component of funding sea turtle conservation research throughout the Caribbean and Gulf of Mexico, and should be promoted with sustainability, animal welfare, and local community impact in mind first."
+  },
+  {
+    "objectID": "blogs/2025-03-18-Loggerhead-Turtles/index.html#the-infographic",
+    "href": "blogs/2025-03-18-Loggerhead-Turtles/index.html#the-infographic",
+    "title": "Loggerhead Sea Turtle Nesting Trends",
+    "section": "The Infographic",
+    "text": "The Infographic\nI used Canva to assemble all three plots into an informative infographic. I found their tools easy to use and it worked nicely with R."
+  },
+  {
+    "objectID": "blogs/2025-03-18-Loggerhead-Turtles/index.html#question-1-where-in-the-world-are-loggerheads-nesting",
+    "href": "blogs/2025-03-18-Loggerhead-Turtles/index.html#question-1-where-in-the-world-are-loggerheads-nesting",
+    "title": "Loggerhead Sea Turtle Nesting Trends",
+    "section": "Question 1: Where in the world are loggerheads nesting?",
+    "text": "Question 1: Where in the world are loggerheads nesting?\nTo answer this question, I chose a bar chart, axes flipped, with a opacity value to represent frequency of nesting. The emphasis on this visualization is the top regions with the highest amount of nesting sites. I particularly want to draw attention to the Caribbean/Gulf of Mexico region, as the other two visualizations build on this region."
+  },
+  {
+    "objectID": "blogs/2025-03-18-Loggerhead-Turtles/index.html#question-2-more-specifically-where-are-these-nests",
+    "href": "blogs/2025-03-18-Loggerhead-Turtles/index.html#question-2-more-specifically-where-are-these-nests",
+    "title": "Loggerhead Sea Turtle Nesting Trends",
+    "section": "Question 2: More specifically, WHERE are these nests?",
+    "text": "Question 2: More specifically, WHERE are these nests?\nTo best answer this question, I designed a map with the shape-files on top. All titles and text were ultimately removed, as they felt more like a distraction and took away from the map. The titles were then placed above the map in the info graphic, country annotations and arrows were added for further clarification."
+  },
+  {
+    "objectID": "blogs/2025-03-18-Loggerhead-Turtles/index.html#question-3-how-has-loggerhead-nesting-changed-over-time-for-different-beaches",
+    "href": "blogs/2025-03-18-Loggerhead-Turtles/index.html#question-3-how-has-loggerhead-nesting-changed-over-time-for-different-beaches",
+    "title": "Loggerhead Sea Turtle Nesting Trends",
+    "section": "Question 3: How has Loggerhead nesting changed over time for different beaches?",
+    "text": "Question 3: How has Loggerhead nesting changed over time for different beaches?\nAs the data set did not provide a “year” column, the change over time element was present in the “mann-kendall” score column. The mann-kendall score, ranging from -0.2 to 0.8, tells us how nesting at a certain beach changed. Values below zero indicate that there was a decrease in nesting activity over time for a beach, values at zero indicate that there was no significant change over time fo a beach, and values above 0 indicate that there was an increase in nesting over time for a beach.\nTo best represent this data, I selected a line graph with a color gradient, and added in turtle nesting points (as a turtle hatching out of a shell icon) to represent each nesting site on a beach. Similar to visualization 2, annotations with arrows were added in for specific clarification."
+  },
+  {
+    "objectID": "blogs/2025-03-18-Loggerhead-Turtles/index.html#code",
+    "href": "blogs/2025-03-18-Loggerhead-Turtles/index.html#code",
+    "title": "Loggerhead Sea Turtle Nesting Trends",
+    "section": "Code",
+    "text": "Code\nAll code for each of the infographic elements can be found in the code chunk below:\n\n\nCode\n# Load libraries\nlibrary(tidyverse)\nlibrary(dplyr)\nlibrary(sf)\nlibrary(ggspatial)\nlibrary(rnaturalearth)\nlibrary(rnaturalearthdata)\nlibrary(ggimage)\nlibrary(showtext)\nlibrary(grid)\n\n# Read in Turtle nesting data and font data --------------------------------------------------------------------------------------\n# Set the SHAPE_RESTORE_SHX config option\nSys.setenv(\"SHAPE_RESTORE_SHX\" = \"YES\")\n\n# Read the shapefile\nshapefile_path &lt;- \"C:/MEDS/EDS240-dataviz/Assignments/newby-eds240-HW4/data/nestingbeaches_GCB.shp\"\nturtles &lt;- st_read(shapefile_path) %&gt;% \n    janitor::clean_names()\n\n# Font options from google\nfont_add_google(\"Quicksand\", \"quicksand\") \nshowtext_auto()\n\n# Data Wrangling ------------------------------------------------------------------------------------------------------------\n# Check CRS\nst_crs(turtles)\n\n# Assume data into regional names\nturtles &lt;- turtles %&gt;% \n    mutate(region = case_when(rmu == 1 ~ \"Caribbean and Gulf of Mexico\",\n                              rmu == 2 ~ \"Southwest Atlantic\",\n                              rmu == 3 ~ \"Southeast Atlantic\",\n                              rmu == 4 ~ \"Mediterranean\",\n                              rmu == 5 ~ \"Arabian\",\n                              rmu == 8 ~ \"Eastern Indian\",\n                              TRUE ~ \"Unknown\")) %&gt;% \n    filter(region %in% c('Caribbean and Gulf of Mexico', 'Southeast Atlantic', 'Mediterranean', 'Arabian', 'Eastern Indian', 'Southwest Atlantic'))\n\n# Summarize unique nest counts per region\nregion_counts &lt;- turtles %&gt;%\n    st_drop_geometry() %&gt;% \n    group_by(region) %&gt;%\n    summarize(nest_count = n()) %&gt;%  # Count occurrences per region\n    mutate(opacity_val = nest_count / max(nest_count))  # Normalize opacity (0-1)\n\n# Join back to original data (so each region has its unique opacity)\nturtles &lt;- turtles %&gt;%\n    left_join(region_counts, by = \"region\")\n\n# Q1: World regions represented and their average nest count per year. ------------------------------------------------------------------------------- \n\nturtle_bar_plot &lt;- turtles %&gt;% \n    \n    ggplot(aes(x = fct_rev(fct_infreq(region)),\n               alpha = opacity_val))+\n    \n    geom_bar(fill = \"#EBD7A4\") +\n    \n    geom_text(stat = 'count', \n              aes(label=after_stat(count)),\n              hjust = 2,\n              size = 12,\n              color = \"black\",\n              family = 'quicksand',\n              fontface = \"bold\")+\n    \n    coord_flip()+\n    \n    geom_text(aes(x = region, y = 0, label = str_to_title(region)), \n             family = \"quicksand\",\n            size = 13, \n            hjust = -0.03,\n            nudge_y = 0.2) +\n    \n    labs(x = \" \",\n         y = \" \",\n         title = \"Where are Loggerheads Nesting?\",\n         subtitle = \" Average Loggerhead Nesting Counts (per year 1979 - 2023)\")+\n    \n    theme_void()+\n    \n    theme(\n        # text font\n        text = element_text(family = \"quicksand\"),\n        panel.grid.major.y = element_blank(),\n        \n        # adjust text size in plot\n        plot.title = element_text(face = \"bold\", color = \"white\", size = 40, hjust = 0.5),\n        plot.subtitle = element_text(face = \"bold\", size = 28, color = \"white\", hjust = 0.5),\n        axis.text = element_text(size = 20),\n\n        # Ocean colored background:\n        panel.background = element_rect(fill = \"#28808C\", color = NA),\n        plot.background = element_rect(fill = \"#28808C\", color = NA),\n        legend.background = element_rect(fill = \"#28808C\", color = NA),\n        \n        # Remove x and y axis labels\n        axis.text.x = element_blank(), \n        axis.ticks.x = element_blank(),\n        axis.text.y = element_blank(), \n        axis.ticks.y = element_blank(), \n    ) +\n    guides(alpha = \"none\")\n\n\n# Q2: Where are sea turtles nesting in the Caribbean and Gulf of Mexico? -------------------------------------------------------------------------------------\n\n# Filter to countries in the Caribbean/gulf of Mexico.\nmap_turtles_filtered &lt;- turtles %&gt;% \n    filter(region %in% c(\"Caribbean and Gulf of Mexico\"))\n\n# Get world basemap\nworld &lt;- ne_countries(scale = \"medium\", returnclass = \"sf\")\n\n# Make Map \ncaribbean_map &lt;- ggplot() +\n    # Add detailed basemap\n    geom_sf(data = world, fill = \"#EBD7A4\", color = \"#EBD7A4\") + \n    \n    # Add nesting layer\n    geom_sf(data = map_turtles_filtered, fill = \"#F50C0C\", color = \"#F50C0C\", lwd = 2) + \n    \n    # Set zoom to Gulf of Mexico and Caribbean\n    coord_sf(xlim = c(-100, -65), ylim = c(15, 33)) + \n    \n    # Apply a blank theme\n    theme_void() +\n    \n      theme(\n         # change background ocean color\n         panel.background = element_rect(fill = \"#28808c\", color = NA)\n    )\n\n\n\n# Q3: what is the variation in the mann-kendall slopes in the Caribbean/gulf of mexico? ------------------------------------------------------\n\nmann_kendall_plot &lt;- map_turtles_filtered %&gt;%\n    \n  ggplot(aes(x = mann_kendal, \n             y = region)) +\n    \n  geom_line(aes(color = mann_kendal), \n            size = 4) +  \n    \n    # Use ggimage for turtle icons\n  geom_image(aes(image = image), size = 0.13) +\n    \n    # Gradient color and gradient color legend\n  scale_color_gradient2(low = \"green\", \n                        mid = \"lightblue\", \n                        high = \"#438D80\", \n                        midpoint = 0.25,\n                        guide = guide_colorbar(title = NULL,\n                                               barwidth = 21,\n                                               barheight = 0.5),\n                        breaks = c(-0.17, 0, 0.5),\n                        labels = c(\"Decrease\", \"No Change\", \"Increase\")) + \n    \n    # label axes\n  labs(x = \"Mann-Kendall Slope\",\n       y = \"\",\n       title = \"There's Variation Across Beaches in the Caribbean and Gulf of Mexico\",\n       subtitle = \"What does this variation mean? Some beaches may handle the effects of climate change better than others\") +\n    \n  theme_minimal() +\n    \n  theme(legend.position = \"bottom\",\n        # text font\n        text = element_text(family = \"quicksand\"),\n        \n        # Sand colored background:\n        panel.background = element_rect(fill = \"#EBD7A4\", color = NA),\n        plot.background = element_rect(fill = \"#EBD7A4\", color = NA),\n        legend.background = element_rect(fill = \"#EBD7A4\", color = NA),\n        \n        # adjust text size in plot\n        plot.title = element_text(face = \"bold\", size = 31, hjust = 0.5),\n        plot.subtitle = element_text(size = 22, hjust = 0.5),\n        axis.title.x = element_text(size = 20),\n        axis.text = element_text(size = 20),\n        legend.text = element_text(size = 20),\n        \n        # Hide labels\n        axis.text.y = element_blank(),  # Hides y-axis labels\n        axis.ticks.y = element_blank(),  # Hides y-axis ticks\n        panel.grid.minor = element_blank() # remove minor grid lines\n    )"
+  },
+  {
+    "objectID": "blogs/2025-03-18-Loggerhead-Turtles/index.html#thank-you",
+    "href": "blogs/2025-03-18-Loggerhead-Turtles/index.html#thank-you",
+    "title": "Loggerhead Sea Turtle Nesting Trends",
+    "section": "Thank you!",
+    "text": "Thank you!\nI hope you learned something cool about loggerheads today! If you are interested in supporting or learning more about loggerhead conservation in the countries displayed in visualization 2, please explore the following links:\n\nLoggerhead Marinelife Center, Florida, USA\nXcacel-Xcacelito: Sea Turtle Sanctuary, Mexico\nDepartment of Environment, Cayman Islands Government"
+  },
+  {
+    "objectID": "blogs/2025-03-18-Loggerhead-Turtles/index.html#sources",
+    "href": "blogs/2025-03-18-Loggerhead-Turtles/index.html#sources",
+    "title": "Loggerhead Sea Turtle Nesting Trends",
+    "section": "Sources",
+    "text": "Sources\n\nIUCN. (2025). Caretta caretta (Loggerhead Turtle). The IUCN Red List of Threatened Species 2025: e.T3897A119333622. Retrieved from https://www.iucnredlist.org/species/3897/119333622\nSousa-Guedes, Diana; Campos, João C.; Bessa, Filipa et al. (2025). The effects of warming on loggerhead turtle nesting counts [Dataset]. Dryad. https://doi.org/10.5061/dryad.b8gtht7n5\nU.S. Fish and Wildlife Service. (1973). Endangered Species Act of 1973, as amended. Retrieved from https://www.fws.gov/endangered/laws-policies/"
   }
 ]
