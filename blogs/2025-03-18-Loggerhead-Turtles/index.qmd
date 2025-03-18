@@ -9,7 +9,7 @@ author:
 date: 2025-03-18
 categories: [Quarto, MEDS]
 toc: true
-image: turtle-egg.jpg
+image: turtle-egg.jpeg
 warning: false
 citation:
   url: https://evajnewby.github.io/blogs/2025-03-18-Loggerhead-Turtles/
