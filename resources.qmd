@@ -1,4 +1,19 @@
 ---
 title: "All of my Favorite Resources"
 ---
-stay tuned!
+As an environmental data scientist, I find myself using certain websites and resources more than others. Here is an (ongoing) list of resources I've found helpful (and cool)!
+
+### Design
+
+[Coolors](https://coolors.co/f7ebec-ddbdd5-ac9fbb-59656f-1d1e2c) is one of my go-tos for finding a color palette. Just click the space bar to change the colors, and have fun!
+
+[Google fonts](https://fonts.google.com/) has many font options to suit your fancy (and project).
+
+### Which visualization is best for my data?
+
+[From data to vis](https://www.data-to-viz.com/) is a favorite for many reasons. The site is easy to navigate and presents SO many options. The best part? The flowchart. Check it out!
+
+
+### Who is using environmental data science?
+
+[Google Sustainability](https://blog.google/outreach-initiatives/sustainability/) is investing quite a bit into various environmental data research projects. Check out this post on [6 ways google has advanced energy solutions last year](https://blog.google/outreach-initiatives/sustainability/6-unique-ways-we-advanced-energy-solutions-in-2024/). 

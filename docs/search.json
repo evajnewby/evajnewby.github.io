@@ -4,14 +4,14 @@
     "href": "resources.html",
     "title": "All of my Favorite Resources",
     "section": "",
-    "text": "stay tuned!"
+    "text": "As an environmental data scientist, I find myself using certain websites and resources more than others. Here is an (ongoing) list of resources I’ve found helpful (and cool)!\n\nDesign\nCoolors is one of my go-tos for finding a color palette. Just click the space bar to change the colors, and have fun!\nGoogle fonts has many font options to suit your fancy (and project).\n\n\nWhich visualization is best for my data?\nFrom data to vis is a favorite for many reasons. The site is easy to navigate and presents SO many options. The best part? The flowchart. Check it out!\n\n\nWho is using environmental data science?\nGoogle Sustainability is investing quite a bit into various environmental data research projects. Check out this post on 6 ways google has advanced energy solutions last year."
   },
   {
     "objectID": "blogs.html",
     "href": "blogs.html",
     "title": "Blog",
     "section": "",
-    "text": "Loggerhead Sea Turtle Nesting Trends\n\n\n\nQuarto\n\n\nMEDS\n\n\n\nfor the Caribbean and Gulf of Mexico Region from 1979 to 2023\n\n\n\nEva Newby\n\n\nMar 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2017 Thomas Fire Analysis\n\n\n\nMEDS\n\n\n\nDetailed code on how to create the fire bounday, overlay onto a false color image, and vizualize the AQI change\n\n\n\nEva Newby\n\n\nDec 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBeach Closure Days as a Function of Rainfall in Coastal San Diego County\n\n\n\nQuarto\n\n\nMEDS\n\n\n\nCode in R using a negative binomial regression model\n\n\n\nEva Newby\n\n\nDec 11, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlog post title\n\n\n\nQuarto\n\n\nMEDS\n\n\n\na short catchy descriotion of the blogpost\n\n\n\nEva Newby\n\n\nOct 18, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Loggerhead Sea Turtle Nesting Trends\n\n\n\nQuarto\n\n\nMEDS\n\n\n\nfor the Caribbean and Gulf of Mexico Region from 1979 to 2023\n\n\n\nEva Newby\n\n\nMar 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2017 Thomas Fire Analysis\n\n\n\nMEDS\n\n\n\nDetailed code on how to create the fire bounday, overlay onto a false color image, and vizualize the AQI change\n\n\n\nEva Newby\n\n\nDec 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBeach Closure Days as a Function of Rainfall in Coastal San Diego County\n\n\n\nQuarto\n\n\nMEDS\n\n\n\nCode in R using a negative binomial regression model\n\n\n\nEva Newby\n\n\nDec 11, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blogs/2024-12-11-Rainfall-and-Beach-Closures/index.html",
@@ -257,5 +257,40 @@
     "title": "Eva Newby",
     "section": "",
     "text": "Eva Newby is a graduate student in the UC Santa Barbara Bren School of Environmental Science and Management, working towards a Master’s degree in Environmental Data Science. Eva graduated with Regents Scholar distinction from UC Davis (2019) with a B.S. in Animal Science and a specialization in Animal Behavior. Since graduation, she has been volunteering at North America’s largest refugee camp in Tijuana, Mexico and working as a biologist in the environmental consulting field. In addition to her responsibilities as a biologist, Eva became the head drone pilot for the Southern California region, exposing her to even more of California’s diverse ecosystems. Drone imagery data synthesis initially sparked her interest in the data science field, and the curiosity to use data science to further inform sound environmental decision making drove her to apply to the Bren School. Eva additionally plans to use her data science skills to help address food insecurity in impoverished communities.\nOutside of her professional career, Eva enjoys the great outdoors through surfing, biking, rock climbing, snowboarding, hiking, and petting as many friendly animals as possible."
+  },
+  {
+    "objectID": "blogs/2024-10-18-intro-post/index.html",
+    "href": "blogs/2024-10-18-intro-post/index.html",
+    "title": "Blog post title",
+    "section": "",
+    "text": "I am going to insert a footnote here[^1] [^1]: here is a new footnote"
+  },
+  {
+    "objectID": "blogs/2024-10-18-intro-post/index.html#this-is-my-first-section",
+    "href": "blogs/2024-10-18-intro-post/index.html#this-is-my-first-section",
+    "title": "Blog post title",
+    "section": "",
+    "text": "I am going to insert a footnote here[^1] [^1]: here is a new footnote"
+  },
+  {
+    "objectID": "blogs/2024-10-18-intro-post/index.html#this-is-my-second-section",
+    "href": "blogs/2024-10-18-intro-post/index.html#this-is-my-second-section",
+    "title": "Blog post title",
+    "section": "This is my second section",
+    "text": "This is my second section\nHere’s my next paragraph1\nI’m citing Sam(Csik 2021)\nHere is more random texts. I am going to cite a journal article now. (Gaynor et al. 2022)"
+  },
+  {
+    "objectID": "blogs/2024-10-18-intro-post/index.html#footnotes",
+    "href": "blogs/2024-10-18-intro-post/index.html#footnotes",
+    "title": "Blog post title",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nHere is my second footnote↩︎"
+  },
+  {
+    "objectID": "resources.html#selecting-a-color-palette",
+    "href": "resources.html#selecting-a-color-palette",
+    "title": "All of my Favorite Resources",
+    "section": "Selecting a Color Palette",
+    "text": "Selecting a Color Palette\nCoolors is one of my go-tos. Just click the space bar to change the colors, and have fun!"
   }
 ]
