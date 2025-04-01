@@ -1,5 +1,12 @@
 ---
-title: "About"
+title: "About Eva"
 ---
+## Areas of focus (page in progress):
 
-Stay tuned!
+### Data Science (R, Python, SQL)
+
+### Ecology
+
+### Energy
+
+### Drones

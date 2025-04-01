@@ -1,7 +1,7 @@
 ---
-title: "All of my Favorite Resources"
+title: "Eva's Favorite Resources"
 ---
-As an environmental data scientist, I find myself using certain websites and resources more than others. Here is an (ongoing) list of resources I've found helpful (and cool)!
+As an environmental data scientist, I find myself using certain websites and resources more than others. Here is an (ongoing) list of resources I've found helpful!
 
 ### Design
 
@@ -11,7 +11,7 @@ As an environmental data scientist, I find myself using certain websites and res
 
 ### Which visualization is best for my data?
 
-[From data to vis](https://www.data-to-viz.com/) is a favorite for many reasons. The site is easy to navigate and presents SO many options. The best part? The flowchart. Check it out!
+[From data to viz](https://www.data-to-viz.com/) is a favorite for many reasons. The site is easy to navigate and presents SO many options. The best part? The flowchart. Check it out!
 
 
 ### Who is using environmental data science?
