@@ -2,9 +2,9 @@
   {
     "objectID": "resources.html",
     "href": "resources.html",
-    "title": "All of my Favorite Resources",
+    "title": "Eva’s Favorite Resources",
     "section": "",
-    "text": "As an environmental data scientist, I find myself using certain websites and resources more than others. Here is an (ongoing) list of resources I’ve found helpful (and cool)!\n\nDesign\nCoolors is one of my go-tos for finding a color palette. Just click the space bar to change the colors, and have fun!\nGoogle fonts has many font options to suit your fancy (and project).\n\n\nWhich visualization is best for my data?\nFrom data to vis is a favorite for many reasons. The site is easy to navigate and presents SO many options. The best part? The flowchart. Check it out!\n\n\nWho is using environmental data science?\nGoogle Sustainability is investing quite a bit into various environmental data research projects. Check out this post on 6 ways google has advanced energy solutions last year."
+    "text": "As an environmental data scientist, I find myself using certain websites and resources more than others. Here is an (ongoing) list of resources I’ve found helpful!\n\nDesign\nCoolors is one of my go-tos for finding a color palette. Just click the space bar to change the colors, and have fun!\nGoogle fonts has many font options to suit your fancy (and project).\n\n\nWhich visualization is best for my data?\nFrom data to viz is a favorite for many reasons. The site is easy to navigate and presents SO many options. The best part? The flowchart. Check it out!\n\n\nWho is using environmental data science?\nGoogle Sustainability is investing quite a bit into various environmental data research projects. Check out this post on 6 ways google has advanced energy solutions last year."
   },
   {
     "objectID": "blogs.html",
@@ -51,9 +51,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Eva",
     "section": "",
-    "text": "Stay tuned!"
+    "text": "Data Science (R, Python, SQL)\n\n\nEcology\n\n\nEnergy\n\n\nDrones"
   },
   {
     "objectID": "blogs/2024-12-04-Thomas-Fire-Analysis/2017-Thomas-Fire-Analysis.html",

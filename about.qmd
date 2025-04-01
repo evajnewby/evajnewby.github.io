@@ -1,8 +1,6 @@
 ---
 title: "About Eva"
 ---
-## Areas of focus (page in progress):
-
 ### Data Science (R, Python, SQL)
 
 ### Ecology
